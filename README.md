@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranshuS007
 - 👀 I’m interested in Machine Learning and Deep Laarning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on hand on projects on Deep Learning
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on hand on projects on Machine Learning
 - 📫 How to reach me ... my email pranshusharma712@gmail.com
 
 <!---
